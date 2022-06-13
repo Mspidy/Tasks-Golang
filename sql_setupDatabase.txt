@@ -1,0 +1,6 @@
+1. First Create a database
+2. Then Setup connection with goLang
+             -sql.Open("mysql", "root:Prabhat@2022@tcp(127.0.0.1:3306)/go_db?charset=utf8&parseTime=True&loc=Local")
+3. And also make a table in sql databse.
+
+In this repository CRUD operation sql with goLang
